@@ -7,8 +7,7 @@ This repository contains the Python script for data acquisition, the advanced SQ
 
 ## 🚀 Live Dashboard
 A live, interactive version of the final dashboard is published on Tableau Public.<br/>
-➡️ Link uploading soon 
-Dashboard Preview
+Dashboard Preview: https://public.tableau.com/views/StockPerformanceAnalysis_17618676607390/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## ✨ Key Features
 - **Dynamic Filtering**: Analyze data for a specific stock or compare multiple stocks simultaneously.  A date range slider allows for focused historical analysis.
